@@ -65,7 +65,7 @@ Debug
  - Serial Wire JTAG Debug Port (SWJ-DP)
 
 ----------
-### <a name="AX88796C"></a>Stand-Alone Ethernet Controller with SPI Interface 
+### <a name="ENC28J60"></a>Stand-Alone Ethernet Controller with SPI Interface 
 **ENC28J60**  
 
 Ethernet Controller Features  
